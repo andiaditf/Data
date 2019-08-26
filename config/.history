@@ -1,0 +1,6 @@
+git init
+ls
+git add Documents/Doc APPL
+git add Doc APPL
+git add Doc APPL/SKPL.doc
+git add .
